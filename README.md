@@ -1,6 +1,6 @@
 # To-Do App with Jetpack Compose
 
-## Introduction
+## Introduction:
 This To-Do App is a modern Android application built from the ground up using Kotlin and Jetpack Compose. The application demonstrates the use of the latest tools and libraries in Android development to create a fully functional, reactive user experience.
 
 ## Features
